@@ -1,1 +1,3 @@
-# rustico pagina para el colegio
+# rustico 
+
+pagina para el colegio
